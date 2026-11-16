@@ -1,0 +1,4 @@
+model,PR-AUC,ROC-AUC
+LogReg,0.200 ± 0.028,0.837 ± 0.017
+RandomForest,0.184 ± 0.025,0.835 ± 0.017
+XGBoost,0.196 ± 0.030,0.823 ± 0.014
